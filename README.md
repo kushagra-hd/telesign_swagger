@@ -37,6 +37,6 @@ Enterprise versions available for use are:
 
 Documentation for Enterprise products is available at <a href="https://enterprise.telesign.com">enterprise.telesign.com</a>.
 
-*Frequently during discussions, developers will use Swagger to refer to the specification and the tools for creating the specification. To be clear, Swagger is now used to refer to the open-source tools you can use to work with your specification. For example, you might put your OpenAPI specification into the Swagger Editor to work on writing it. 
+*Frequently during discussions, developers will use Swagger to refer to the specification and the tools for creating the specification. To be clear, Swagger is now used to refer to the open-source tools you can use to work with your specification. For example, you might put your OpenAPI specification into the Swagger Editor to work on writing it..
 
 
